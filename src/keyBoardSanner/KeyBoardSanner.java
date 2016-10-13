@@ -16,5 +16,4 @@ public class KeyBoardSanner {
 				+ "is");
 		System.out.printf("%4.2e", d);
 	}
-	
 }
